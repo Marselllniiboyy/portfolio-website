@@ -34,7 +34,11 @@ Proyek ini mendukung **Dark Mode** dan desain yang responsif.
    cd portfolio-website
 
 2. Instal Depeddensi
-   npm install
+   
+   ```bash
+   npm instal
 
-3. jalankan Tailwind
-   npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+4. jalankan Tailwind
+   
+   ```bash
+  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
