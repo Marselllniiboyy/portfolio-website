@@ -14,8 +14,9 @@ Proyek ini mendukung **Dark Mode** dan desain yang responsif.
 
 ## 🖼️ Preview
 
-![Preview](img/preview.png)  
-[Demo Langsung di GitHub Pages](https://username.github.io/portfolio-website)
+![Preview](<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/f318591e-597a-4c03-8c87-f7cb5a3db77d" />
+)  
+[Demo Langsung di GitHub Pages](https://marselllniiboyy.github.io/portfolio-website/)
 
 ## 🛠️ Teknologi
 
