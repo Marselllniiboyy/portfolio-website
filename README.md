@@ -41,4 +41,4 @@ Proyek ini mendukung **Dark Mode** dan desain yang responsif.
 4. jalankan Tailwind
    
    ```bash
-  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+   npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
