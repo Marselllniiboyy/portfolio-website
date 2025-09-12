@@ -4,13 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio</title>
-    <link href="src/output.css" rel="stylesheet" />
+    <link href="dist/output.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
       rel="stylesheet"
     />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   </head>
   <body>
     <!-- Header Start -->
@@ -87,6 +88,16 @@
                     class="text-base text-dark py-2 mx-8 flex group-hover:text-primary lg:inline-flex"
                     >Contact</a
                   >
+                </li>
+                <li class="group">
+                  <a href="#">
+                    <button
+                      id="dark-toggle"
+                      class="p-2 rounded-full bg-slate-200 dark:bg-slate-700"
+                    >
+                      🌙
+                    </button>
+                  </a>
                 </li>
               </ul>
             </nav>
