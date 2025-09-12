@@ -14,7 +14,7 @@ Proyek ini mendukung **Dark Mode** dan desain yang responsif.
 
 ## 🖼️ Preview
 
-![Preview](<img width="1919" height="1078" alt="image" src="dist/img/Screenshot 2025-09-12 140823.png" />)  
+![Preview](dist/img/Screenshot%202025-09-12%20140823.png)
 [Demo Langsung di GitHub Pages](https://marselllniiboyy.github.io/portfolio-website/)
 
 ## 🛠️ Teknologi
