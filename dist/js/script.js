@@ -7,7 +7,7 @@ $(document).ready(function () {
 
   $(window).on("scroll", function () {
     if ($(window).scrollTop() > fixedNav) {
-      header.addClass("navbar-fixed");
+      header.addClass("navbar-fixed");  
       toTop.removeClass("hidden").addClass("flex");
     } else {
       header.removeClass("navbar-fixed");
